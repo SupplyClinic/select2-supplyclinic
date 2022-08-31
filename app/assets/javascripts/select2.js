@@ -2937,7 +2937,6 @@ the specific language governing permissions and limitations under the Apache Lic
                 //this.close();
                 this.search.width(10);
             } else {
-                alert("we are in  here the else");
                 if (this.countSelectableResults()>0) {
                     this.search.width(10);
                     this.resizeSearch();
